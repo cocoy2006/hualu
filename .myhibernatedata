@@ -1,0 +1,24 @@
+#MyEclipse Hibernate Properties
+#Mon Sep 15 16:43:48 CST 2014
+sessionFactoryName=com.hualu.main.java.HibernateSessionFactory
+genBasicCompId=false
+profile=
+daoSFId=sessionFactory
+version=3.3
+jndiPath=
+detectM2M=false
+reStrategyClass=
+detectO2O=false
+springDaoFile=src/applicationContext.xml
+useJavaTypes=true
+keyGenerator=
+libInstallFolder=WebRoot/WEB-INF/lib
+addLibs2Project=true
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+genAnnotations=false
+reSettingsFile=
+configFile=/hualu/src/hibernate.cfg.xml
+createConfigFile=true
+addLibs2Classpath=true

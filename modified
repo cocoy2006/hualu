@@ -1,0 +1,9 @@
+add function of first page, last page and redirect page
+@ DataTables-1.10.4/examples/resources/bootstrap/3/dataTables.bootstrap.js
+@ DataTables-1.10.4/examples/resources/bootstrap/3/dataTables.bootstrap.css
+
+@ResponseBody chinese characters messy code // 中文乱码
+1, update springframework to version 3.2.9;
+2, add jackson jars;
+3, add com.hualu.main.java.util.converter.UTF8StringHttpMessageConverter;
+4, add bean in applicationContext.xml(!important must before <context:component-scan base-package="com.hualu" />).
